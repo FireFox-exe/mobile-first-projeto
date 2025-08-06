@@ -29,3 +29,10 @@ Inspirado em layouts de e-commerce e bibliotecas online, o projeto foi construí
 
 ---
 
+## 🔍 Demonstração
+
+📍 **Veja o projeto online**: https://firefox-exe.github.io/mobile-first-projeto/
+
+caso esteja no PC use o DEVTOOLS *f2 ou ctrl + shift + C* para testar a responsividade.
+
+---
